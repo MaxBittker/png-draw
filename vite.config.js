@@ -4,6 +4,7 @@ export default {
     host: '0.0.0.0',
   },
   build: {
-    outDir: "docs"
-  }
+    outDir: "docs",
+  },
+  base: "png-draw"
 }
